@@ -1,6 +1,0 @@
-framework module WZZDrawView {
-  umbrella header "WZZDrawView.h"
-
-  export *
-  module * { export * }
-}
