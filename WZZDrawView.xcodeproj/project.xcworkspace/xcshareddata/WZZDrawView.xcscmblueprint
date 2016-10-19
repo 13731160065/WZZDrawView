@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fe978c0f-148a-d304-cb9e-ce57b7db7bff++4856",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fe978c0f-148a-d304-cb9e-ce57b7db7bff++505",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++4856" : {
+    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++505" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++4856" : 0
+    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++505" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75089AAF-B485-448B-A27B-33CBEA862AC0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++4856" : "WZZDrawView\/"
+    "fe978c0f-148a-d304-cb9e-ce57b7db7bff++505" : "WZZDrawView\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "WZZDrawView",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/13731160065\/WZZDrawView.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe978c0f-148a-d304-cb9e-ce57b7db7bff++4856"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe978c0f-148a-d304-cb9e-ce57b7db7bff++505"
     }
   ]
 }

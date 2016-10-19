@@ -15,6 +15,10 @@
 
 @implementation WZZDrawView
 
+- (void)hello {
+    NSLog(@"hello");
+}
+
 - (instancetype)initWithFrame:(CGRect)frame
 {
     self = [super initWithFrame:frame];

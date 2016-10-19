@@ -141,6 +141,8 @@ typedef struct rgba {
                        point3:(CGPoint)point3
                        point4:(CGPoint)point4;
 
+- (void)hello;
+
 @end
 
 /**
