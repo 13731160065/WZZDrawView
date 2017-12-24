@@ -49,13 +49,15 @@
 
 //画点
 - (void)drawPoint:(CGPoint)point color:(UIColor *)color border:(CGFloat)border {
+    WZZCircle * circle = [[WZZCircle alloc] init];
+    circle.O = point;
+    circle.r = border/2;
     WZZDrawModel * model = [[WZZDrawModel alloc] init];
-    model.type = DRAWTYPE_Point;
-    model.point1 = point;
+    model.type = DRAWTYPE_Circle;
+    model.full = YES;
     model.color = color;
     model.border = border;
-    point.x+=1;
-    model.point2 = point;
+    model.circle = circle;
     [self.modelsArr addObject:model];
     if (_autoReload) {
         [self reloadData];
